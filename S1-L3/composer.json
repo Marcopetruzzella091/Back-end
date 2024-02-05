@@ -1,0 +1,17 @@
+{
+    "name": "lavoro/backend",
+    "autoload": {
+        "psr-4": {
+            "Lavoro\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marco091",
+            "email": "Marco91fire@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
